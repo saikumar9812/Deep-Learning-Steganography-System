@@ -1,0 +1,10 @@
+Digital Optimization.
+
+Encode LSB Markers
+Send to Client
+Customer sends image.
+Extract LSB Markers.
+Find Edge points.
+	
+Perform Homography and WarpPerspective.
+Extract BCH Codes.
